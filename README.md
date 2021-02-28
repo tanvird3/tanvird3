@@ -1,4 +1,4 @@
-### Hello Folks
+### Hello Folks,
 I am Tanvir Khan, a banking professional with 10 years' experience as a quant. I mostly work with financial data and my favorite tools are R and Python. 
 
 🔭 I’m currently working on: A lot of trivial things<br/>
