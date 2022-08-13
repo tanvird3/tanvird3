@@ -11,7 +11,7 @@ I am Tanvir Khan, a banking professional with more than 10 years' experience as 
 🤔 I’m looking for help with: Putting my daughter to sleep<br/>
 💬 Ask me about: Politics(?) / History<br/>
 📫 How to reach me: You can't reach me, just kidding, mail me at tkhan1@isrt.ac.bd / tanvir.d3@gmail.com<br/>
-😄 Pronouns: We are the all singing all dancing crap of the world<br/>
+😄 Pronouns: He/Him<br/>
 ⚡ Fun fact: You are going to die someday<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanvird3&show_icons=true">
