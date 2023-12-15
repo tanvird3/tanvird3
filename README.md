@@ -3,7 +3,7 @@
 [![Quora Follow](https://img.shields.io/badge/%20-Follow-black?color=14171C&labelColor=ef5350&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%AD%E0%A7%80%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A8-Tanvir-Khan)
 
 ### Hello Folks,
-I am Tanvir Khan, a banking professional with more than 10 years' experience as a quant. I mostly work with financial data and my favorite tools are R and Python. 
+I am Tanvir Khan, a banking professional with more than 12 years' of experience as a quant. I mostly work with financial data and my favorite tools are R and Python. 
 
 🔭 I’m currently working on: A lot of trivial things<br/>
 🌱 I’m currently learning: Baby care<br/>
