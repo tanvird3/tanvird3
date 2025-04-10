@@ -1,6 +1,5 @@
 [![Gmail](https://img.shields.io/badge/%20-Mail%20Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=1FBECE)](mailto:tkhan1@isrt.ac.bd?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=3498DB&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tanvirkhanisrt/)
-[![Quora Follow](https://img.shields.io/badge/%20-Follow-black?color=14171C&labelColor=ef5350&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%AD%E0%A7%80%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A8-Tanvir-Khan)
 
 ### Hello Folks,
 I am Tanvir Khan, a banking professional with more than 12 years' of experience as a quant. I mostly work with financial data and my favorite tools are R and Python. 
