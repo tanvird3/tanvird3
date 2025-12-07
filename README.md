@@ -13,4 +13,4 @@ I am Tanvir Khan, a banking professional with more than 12 years' of experience 
 😄 Pronouns: He/Him<br/>
 ⚡ Fun fact: You are going to die someday<br/>
 
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvird3&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvird3&theme=radical)
